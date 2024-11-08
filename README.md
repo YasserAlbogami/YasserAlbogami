@@ -28,9 +28,8 @@ I'm a dedicated **Computer Science** student with a strong passion for **Softwar
 
 
 ## 🌐 Connect with Me
-I’m excited to connect with other developers, collaborate on projects, and continuously learn from the tech community! Feel free to reach out.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yasser-albogami-650240291/))  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/your-profile](https://x.com/YaAlbogami))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-albogami-650240291/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YaAlbogami)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasserayalbogami@gmail.com)
 
-
+I’m excited to connect with other developers, collaborate on projects, and continuously learn from the tech community! Feel free to reach out.
