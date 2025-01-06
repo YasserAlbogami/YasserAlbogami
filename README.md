@@ -24,7 +24,7 @@ I'm a dedicated **Computer Science** student with a strong passion for **Softwar
 ## 🌟 Projects
 - Write Way
 - portfolio_page
-- There a lot in way ....... 
+- Others in the way... 
 
 
 ## 🌐 Connect with Me
