@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yasser
 
-I'm a dedicated **Computer Science** student with a strong passion for **Software Engineering** and **Data Science**, especially in **web development** and **backend** technologies. I’m constantly exploring new tools and frameworks to enhance my skills and create seamless, high-performing applications that provide exceptional user experiences.
+I'm a dedicated **Computer Science** student with a strong passion for **Software Engineering** and **AI**, especially in **web development** and **backend** technologies. I’m constantly exploring new tools and frameworks to enhance my skills and create seamless, high-performing applications that provide exceptional user experiences.
 
 ## 🚀 About Me
 - 🔍 Focused on **backend development** and exploring the full range of **web development**
